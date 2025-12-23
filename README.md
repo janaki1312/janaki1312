@@ -44,6 +44,7 @@
   <li>Git</li>
   <li>GitHub</li>
   <li>VS Code</li>
+  <li>Figma</li>
 </ul>
 
 <hr>
